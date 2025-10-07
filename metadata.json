@@ -1,0 +1,5 @@
+{
+  "name": "Dapur Mama Menu",
+  "description": "A digital menu application for the Dapur Mama restaurant, featuring an admin panel for managing menu items (add, edit, delete) and a customer-facing view to browse the menu.",
+  "requestFramePermissions": []
+}
